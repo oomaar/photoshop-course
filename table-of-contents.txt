@@ -1,0 +1,8 @@
+Lesson-1: Introduction:-
+- Introduction to Photoshop.
+- Workspace setup.
+- open file.
+- new file.
+- zoom.
+- move tool.
+- windows & preferences
