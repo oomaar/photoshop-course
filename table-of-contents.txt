@@ -7,9 +7,18 @@ Lesson-1: Introduction:-
 - move tool.
 - windows & preferences
 
-lesson-2: Selection Tools:-
+Lesson-2: Selection Tools:-
 - Marque Tool. (Rectangle and Circle)
 - Lasso Tool. (Free Lasso, Polygonal and Magnetic)
 - Magic Tool.
 - Quick Selection.
 - Object Selection.
+
+Lesson-3: Free Transform:-
+- Free Transform (ctrl + t)
+- select object & move to another file.
+- skew.
+- Distort.
+- Prespective.
+- Wrap.
+- Flip, Scale & Rotate.
