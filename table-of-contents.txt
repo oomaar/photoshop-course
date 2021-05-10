@@ -22,3 +22,11 @@ Lesson-3: Free Transform:-
 - Prespective.
 - Wrap.
 - Flip, Scale & Rotate.
+
+Lesson-4: Color-Range & Hair-Selection:-
+- Review on Last 3 Lectures.
+- Color Range Selection.
+- Introduction To Brush Tool.
+- Select & Modify (Border, Contract, Expand, Smooth & Feather). (Very Important in terms of selection).
+- Select & Mask.
+- Hasir Selection.
