@@ -6,3 +6,10 @@ Lesson-1: Introduction:-
 - zoom.
 - move tool.
 - windows & preferences
+
+lesson-2: Selection Tools:-
+- Marque Tool. (Rectangle and Circle)
+- Lasso Tool. (Free Lasso, Polygonal and Magnetic)
+- Magic Tool.
+- Quick Selection.
+- Object Selection.
