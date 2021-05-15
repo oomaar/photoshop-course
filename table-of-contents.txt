@@ -30,3 +30,8 @@ Lesson-4: Color-Range & Hair-Selection:-
 - Select & Modify (Border, Contract, Expand, Smooth & Feather). (Very Important in terms of selection).
 - Select & Mask.
 - Hasir Selection.
+
+Lesson-5: Selection & Layers (Part-1):-
+- Advanced Hair Selection. (Select & Mask).
+- Brush Tool + Layer Mask.
+- Layers Drag And Drop.
