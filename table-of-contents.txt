@@ -35,3 +35,28 @@ Lesson-5: Selection & Layers (Part-1):-
 - Advanced Hair Selection. (Select & Mask).
 - Brush Tool + Layer Mask.
 - Layers Drag And Drop.
+
+Lesson-6: Select, Move & Align Items:-
+- Align Items.
+- Select Multiple items and distrebute spaces.
+- Search, Delete, Rename, Opacity and Lock Layers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
