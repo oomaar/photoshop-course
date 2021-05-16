@@ -56,6 +56,12 @@ Lesson-7: Open New File, Paint Bucket & Gradient Colors:-
 - Gradient Tool.
 - Create Gradient, Import Gradient and Export Gradient.
 
+Lesson-8: Pattern & Mask:-
+- Pattern.
+- Blend Mode.
+- fx (Layer Style).
+- Drop Shadow.
+- Add CopyRight To an Image.
 
 
 
