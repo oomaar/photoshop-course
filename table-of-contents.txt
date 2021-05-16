@@ -41,7 +41,20 @@ Lesson-6: Select, Move & Align Items:-
 - Select Multiple items and distrebute spaces.
 - Search, Delete, Rename, Opacity and Lock Layers.
 
+Lesson-7: Open New File, Paint Bucket & Gradient Colors:-
+- Open New File.
+- Fix Issue With New File with windows 10 and photoshop 2020+
+(
+   (https://community.adobe.com/t5/photoshop/unable-to-create-a-new-file-in-photoshop-2020-21-0-2/m-p/10797472)
 
+   Hi As a temp workaround try selecting these options in preferences and restarting PS, you won't get the Home Screen but it might enable you to work with Photoshop, 
+   I never use the Home Screen, but just tested in Windows 10 with Photoshop 20.0.2 and it's working fine for me Deselect "Auto show the Home Screen" and enable 
+   "Use Legacy "New Document" Interface".
+)
+
+- Paint Bucket & edit -> fill
+- Gradient Tool.
+- Create Gradient, Import Gradient and Export Gradient.
 
 
 
